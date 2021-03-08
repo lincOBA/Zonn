@@ -3,7 +3,7 @@ import (
     "errors"
     "fmt"
     "sync"
-    "itf"
+    "zonn/itf"
 )
 /*
     连接管理模块

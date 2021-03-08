@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d916c055-2565-4556-8d21-b6dd9f2460c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfg/zone_conn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comm/globalobj.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame/connection.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame/connmanager.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame/datapack.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame/message.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame/msghandler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame/request.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itf/iconnection.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itf/iconnmanager.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itf/idatapack.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itf/imessage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itf/imsghandler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itf/irequest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itf/irouter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itf/iserver.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cfg/zone_conn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/comm/globalobj.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/connection.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/connmanager.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/datapack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/message.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/msghandler.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/request.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/router.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itf/iconnection.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itf/iconnmanager.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itf/idatapack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itf/imessage.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itf/imsghandler.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itf/irequest.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itf/irouter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itf/iserver.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="ProjectId" id="1pNWsBKwcM7vNPWzGwMC00KeFSg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Server.go" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build Client.go">
+    <configuration name="go build Client.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="Zonn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Client.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="Zonn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Server.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build Server.go" />
+      <item itemvalue="Go Build.go build Client.go" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1168" y="373" key="#Go_Modules" timestamp="1615171320461">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1168" y="373" key="#Go_Modules/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1615171320461" />
+    <state x="-1506" y="194" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615024303549">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1506" y="194" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1615024303549" />
+    <state x="-1073" y="399" key="EnvironmentVariablesDialog" timestamp="1615171316839">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1073" y="399" key="EnvironmentVariablesDialog/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1615171316839" />
+    <state x="-1180" y="294" key="FileChooserDialogImpl" timestamp="1615171348396">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1180" y="294" key="FileChooserDialogImpl/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1615171348396" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1615171577521">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1615171577521" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1615171577521">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1615171577521" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1615171577521">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1615171577521" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1615171577521">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1615171577521" />
+    <state x="-1459" y="184" key="SettingsEditor" timestamp="1615170866475">
+      <screen x="-1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1459" y="184" key="SettingsEditor/-1920.0.1858.1080/0.0.1858.1080@-1920.0.1858.1080" timestamp="1615170866475" />
+  </component>
+</project>

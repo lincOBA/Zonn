@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net"
 	"time"
-	"comm"
-	"itf"
+	"zonn/comm"
+	"zonn/itf"
 )
 //iServer 接口实现，定义一个Server服务类
 type Server struct {

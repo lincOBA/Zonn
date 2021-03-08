@@ -3,8 +3,8 @@ import (
 	"bytes"
 	"encoding/binary"
 	"errors"
-	"comm"
-	"itf"
+	"zonn/comm"
+	"zonn/itf"
 )
 //封包拆包类实例，暂时不需要成员
 type DataPack struct {}

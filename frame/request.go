@@ -1,5 +1,5 @@
 package frame
-import "itf"
+import "zonn/itf"
 type Request struct {
 	conn itf.IConnection //已经和客户端建立好的 链接
 	msg itf.IMessage     //客户端请求的数据

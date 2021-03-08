@@ -2,7 +2,7 @@ package comm
 import (
 	"encoding/json"
 	"io/ioutil"
-	"itf"
+	"zonn/itf"
 )
 /*
    存储一切有关Zinx框架的全局参数，供其他模块使用

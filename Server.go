@@ -1,8 +1,8 @@
 package main
 import (
     "fmt"
-    "itf"
-    "frame"
+    "zonn/frame"
+    "zonn/itf"
 )
 //ping test 自定义路由
 type PingRouter struct {

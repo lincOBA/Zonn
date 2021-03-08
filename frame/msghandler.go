@@ -2,8 +2,8 @@ package frame
 import (
 	"fmt"
 	"strconv"
-	"comm"
-	"itf"
+	"zonn/comm"
+	"zonn/itf"
 )
 type MsgHandle struct {
 	Apis           map[uint32]itf.IRouter  //存放每个MsgId 所对应的处理方法的map属性

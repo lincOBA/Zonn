@@ -5,8 +5,8 @@ import (
 	"io"
 	"net"
 	"sync"
-	"comm"
-	"itf"
+	"zonn/comm"
+	"zonn/itf"
 )
 type Connection struct {
     //当前Conn属于哪个Server

@@ -4,7 +4,7 @@ import (
     "io"
     "net"
     "time"
-    "frame"
+    "zonn/frame"
 )
 /*
     模拟客户端
